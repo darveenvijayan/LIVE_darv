@@ -20,6 +20,7 @@ pip3 install cmake==3.18.2
 pip uninstall imgaug -y && pip uninstall albumentations -y && pip install git+https://github.com/aleju/imgaug.git -y
 pip3 install -U PyYAML
 
+cd DiffVG
 sudo apt-get install -y libsdl2-image-dev
 git submodule update --init --recursive
 python3 setup.py install
