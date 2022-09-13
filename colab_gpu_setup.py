@@ -1,5 +1,5 @@
 # install diffvg
-%cd /content/LIVE/DiffVG
+# %cd /content/LIVE/DiffVG
 import torch
 import os
 gpu_name = torch.cuda.get_device_name(0)
