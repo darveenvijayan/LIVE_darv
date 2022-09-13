@@ -1,5 +1,5 @@
-# git clone https://github.com/ma-xu/LIVE.git
-cd LIVE_darv/LIVE
+git clone https://github.com/ma-xu/LIVE.git
+cd LIVE
 
 # change gcc version to 5.5
 apt-get install -qq gcc-5 g++-5 -y
